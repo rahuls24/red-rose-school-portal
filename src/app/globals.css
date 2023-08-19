@@ -1,0 +1,10 @@
+.custom-scroll::-webkit-scrollbar {
+	display: block;
+	max-width: 0.375rem;
+	max-height: 0.324rem;
+}
+
+.custom-scroll::-webkit-scrollbar-thumb {
+	background-color: #d8d8d8;
+	border-radius: 5.5px;
+}
